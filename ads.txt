@@ -115,3 +115,60 @@ onetag.com, 3bf0f6316a97f0, RESELLER
 supply.colossusssp.com, 933, RESELLER, 6c5b49d96ec1b458
 yieldmo.com, 3078438591206989879, RESELLER
 google.com , pub-1769599564836316, RESELLER, f08c47fec0942fa0
+
+vdo.ai, 5905, DIRECT
+atlas5.co, 5905, DIRECT
+google.com, pub-7094677798399606, DIRECT, f08c47fec0942fa0
+google.com, pub-2403018226404213, DIRECT, f08c47fec0942fa0
+nexverse.ai, 24205, reseller
+flashb.id, 22a897ca-8cd1-59a3-b4d5-a3cd7a23486b, direct
+adipolo.com, 23050223808, direct
+adipolosolutions.com, 23050223808, direct
+google.com, pub-2930805104418204, reseller, f08c47fec0942fa0
+google.com, pub-4903453974745530, reseller, f08c47fec0942fa0
+google.com, pub-4836542095728076, reseller, f08c47fec0942fa0
+adnimation.com, 20260015, direct
+google.com, pub-8573325940152694, reseller, f08c47fec0942fa0
+google.com, pub-7528949385909099, reseller, f08c47fec0942fa0
+aniview.com, 68caaf49b07702ddc30e5038, reseller, 78b21b97965ec3f8
+google.com, pub-5717092533913515, reseller, f08c47fec0942fa0
+auxoads.com, 3e576b4d76df7b39fb0dcdee4810c2a0, direct
+google.com, pub-5413329544040947, reseller, f08c47fec0942fa0
+google.com, pub-6151720204273327, reseller, f08c47fec0942fa0
+bidfuse.com, bf-6288, direct
+copper6.com, 766168, direct
+datawrkz.com, 2218, direct
+datawrkz.com, 2394, direct
+google.com, pub-8856559311549217, reseller, f08c47fec0942fa0
+google.com, pub-2676898002317977, reseller, f08c47fec0942fa0
+dida.io, 494n1p17180a, direct
+google.com, pub-3565385483761681, reseller, f08c47fec0942fa0
+thegermanemedia.com, 771, direct
+google.com, pub-6716225838534735, reseller, f08c47fec0942fa0
+incrementx.com, 50003, direct, 8728b7e97e589da4
+google.com, pub-3977122154505186, reseller, f08c47fec0942fa0
+google.com, pub-3990748024667386, reseller, f08c47fec0942fa0
+google.com, pub-8431644635469171, direct, f08c47fec0942fa0
+insticator.com,57f5ae93-5c8b-43c3-9d8a-bdb38c64850f,direct,b3511ffcafb23a32
+oko.uk,57f5ae93-5c8b-43c3-9d8a-bdb38c64850f,direct,b3511ffcafb23a32
+google.com,pub-2697679518515886,reseller,f08c47fec0942fa0
+jambojar.com, 2024j1326, direct
+ads-mesh.com, adm-2024j1326, direct
+google.com, pub-5348345762832984, direct, f08c47fec0942fa0
+google.com, pub-9084396328078500, direct, f08c47fec0942fa0
+google.com, pub-6914523826711866, direct, f08c47fec0942fa0
+revecho.com, 173647, direct
+google.com, pub-2475528731431313, direct, f08c47fec0942fa0
+rtbdemand.com, 23110629672, direct
+google.com, pub-3872674820285626, reseller, f08c47fec0942fa0
+vidgyor.com, 22447, direct
+google.com, pub-8863191426564274, reseller, f08c47fec0942fa0
+tapmind.com, tmp10227, direct
+streamlyn.com, bsrvptr20360, direct
+google.com, pub-1714061154748628, reseller, f08c47fec0942fa0
+google.com, pub-8686615022940025, reseller, f08c47fec0942fa0
+target-video.com, 330, direct
+google.com, pub-7114971906786170, reseller, f08c47fec0942fa0
+biddo.net, bdc-6502, direct
+google.com, pub-3328898302928686, reseller, f08c47fec0942fa0
+google.com, pub-8699255262206653, reseller, f08c47fec0942fa0
